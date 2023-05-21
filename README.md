@@ -9,7 +9,7 @@
 
 
 <p alignt="center">
-	<img src=".github/preview.jpg">
+	<img src=".github/preview.png">
 </p>
 
 ## 🛠 Technologies
